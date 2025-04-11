@@ -1,0 +1,101 @@
+---
+title: "Internships & Projects"
+---
+
+##  Internship Experience
+
+###  Marketing Analyst Intern — Nanjing Securities  
+**Aug 2023 – Sep 2023 | Nanjing, China**  
+- Produced user portraits based on trading behavior and socioeconomic traits of 100+ clients.  
+- Developed an automated pre-selection tool to match clients with suitable financial products.  
+- Created visualizations for investment portfolios and predicted margins to improve presentations.
+
+---
+
+###  Data Scientist Intern — Google (Remote)  
+**Jun 2023 – Aug 2023**  
+- Applied Word2Vec and TF-IDF to extract 500+ key terms for Gboard prediction optimization.  
+- Built a DNN-based classifier on Fashion-MNIST and review datasets; improved model efficiency.  
+- Conducted authenticity tests on IMDB articles using WSDM protocol; achieved 80% precision.
+
+---
+
+##  Academic Projects
+
+###  Student Grade Analysis  
+**STA 141A | UC Davis**  
+- Explored impact of factors like test prep and race on student grades via regression and visualization.  
+- Found positive correlation with lunch/test prep and negative correlation with gender/race.
+
+---
+
+###  Helicopter Flight Factors  
+**STA 106 | UC Davis**  
+- Led research on performance of helicopter calls; applied data transformation and visualization.  
+- Used R to identify peak shifts based on call frequency, normalized and cleaned datasets.
+
+---
+
+###  COVID-19 Analysis in Cameroon  
+**STA 104 | UC Davis**  
+- Tested correlations between age, gender, and infection using boxplots and hypothesis testing.  
+- Concluded no significant correlation with infection rates based on early 2020 data.
+
+---
+
+###  Time Series Forecast of Ping An Bank  
+**STA 137 | UC Davis**  
+- Analyzed monthly prices (2005–2021); decomposed series into trend, seasonality, and noise.  
+- Validated forecast model using Box-Ljung and Portmanteau tests; predicted an upward trend.
+
+---
+
+###  Byssinosis Risk Modeling  
+**STA 138 | UC Davis**  
+- Built logistic regression model using Employment Years, Smoking, Workspace, etc.  
+- Found strong correlation between employment duration and disease prevalence.
+
+---
+
+###  Spam Email Classification  
+**STA 141B | UC Davis**  
+- Parsed 1000+ email headers and bodies to extract 20+ indicators (e.g., `Re:`, `PGPSigned`, recipients).  
+- Visualized patterns with mosaic plots and scatterplots; summarized key spam indicators.
+
+---
+
+###  Housing Price Comparison Near Schools  
+**STA 141B | UC Davis**  
+- Scraped rental listings via Docker and R from Craigslist in Davis and Berkeley.  
+- Verified geographical location as a significant factor using p-values and statistical tests.
+
+---
+
+###  UX Optimization for Housing Rental Data  
+**STA 141B | UC Davis**  
+- Designed an interactive HTML interface to display housing info and trend graphs.  
+- Enabled users to explore location-based rental insights interactively.
+
+---
+
+###  Infant Mortality vs. Population Growth  
+**ECN140 | UC Davis**  
+- Analyzed U.S. health data (1960–2020) using STATA and ANOVA model fitness tests.  
+- Found consistent decline in infant mortality and effectiveness of health policies.
+
+---
+
+###  California Wine Industry Modeling  
+**AD715 | Boston University**  
+- Applied machine learning and statistical modeling on wine company datasets.  
+- Built predictive models and conducted EDA with feature engineering to optimize accuracy.
+
+---
+
+###  Real Estate Strategy for NYC Office Launch  
+**AD571 | Boston University**  
+- Forecasted sales in Upper East Side using time series analysis (8 quarters, 95% confidence).  
+- Built Excel Solver model to determine staffing for NPV maximization.  
+- Proposed strategy for office location, staffing plan, and future data collection.
+
+

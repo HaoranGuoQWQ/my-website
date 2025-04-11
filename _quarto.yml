@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Haoran Guo Personal Website"
+  navbar:
+    left:
+      - text: About
+        href: about.qmd
+      - text: Internships & Projects
+        href: Internships & Projects.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

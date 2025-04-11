@@ -1,0 +1,13 @@
+---
+title: "About Me"
+---
+
+## Hi, I’m Haoran!
+
+I'm a graduate student in ABA program at Boston University.  
+This website is a portfolio showcasing some of the work I've done throughout my academic and professional journey.
+
+
+### Career Goals
+I hope to work in a tech-driven company where I can apply data analytics to solve real-world business problems.
+

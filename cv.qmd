@@ -1,0 +1,46 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Download My Full CV
+
+You can download my full CV here:  
+[**Click to Download**](Haoran Guo_CV.pdf){.btn .btn-primary target="_blank"}
+
+---
+
+##  Education
+
+**Boston University**, M.S. in Applied Business Analytics (09/2024 – 05/2026 expected)  
+Key Courses: R, Business Analytics, Operations, Financial Concepts, Decision-Making
+
+**University of California, Davis**, B.S. in Statistics (09/2020 – 06/2024)  
+Key Courses: Statistical Data Science, Game Theory, Nonparametrics, Regression, Time Series
+
+---
+
+##  Internship Experience
+
+**Marketing Analyst Intern**, Nanjing Securities (2023)  
+- Developed automated product matching tools based on client profiles.  
+- Visualized financial products and increased conversion rate by 5%.
+
+**Data Scientist Intern**, Google (2023)  
+- Built text classifiers using DNN, Word2Vec, TF-IDF.  
+- Enhanced Gboard features and optimized prediction accuracy.
+
+---
+
+##  Skills
+
+**Programming**: Python, R, MATLAB, STATA, SQL  
+**Tools**: Tableau, Excel, Docker, Git, AWS  
+**Languages**: Mandarin (Native), English (Fluent)
+
+---
+
+##  Contact Info
+
+ Boston, MA  
+ ghr2002@bu.edu  
+ 001-530-760-9966

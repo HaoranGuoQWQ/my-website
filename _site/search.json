@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a graduate student in ABA program at Boston University.\nThis website is a portfolio showcasing some of the work I’ve done throughout my academic and professional journey.\n\n\nI hope to work in a tech-driven company where I can apply data analytics to solve real-world business problems."
+  },
+  {
+    "objectID": "about.html#hi-im-haoran",
+    "href": "about.html#hi-im-haoran",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a graduate student in ABA program at Boston University.\nThis website is a portfolio showcasing some of the work I’ve done throughout my academic and professional journey.\n\n\nI hope to work in a tech-driven company where I can apply data analytics to solve real-world business problems."
+  },
+  {
+    "objectID": "Internships & Projects.html",
+    "href": "Internships & Projects.html",
+    "title": "Internships & Projects",
+    "section": "",
+    "text": "Aug 2023 – Sep 2023 | Nanjing, China\n- Produced user portraits based on trading behavior and socioeconomic traits of 100+ clients.\n- Developed an automated pre-selection tool to match clients with suitable financial products.\n- Created visualizations for investment portfolios and predicted margins to improve presentations.\n\n\n\n\nJun 2023 – Aug 2023\n- Applied Word2Vec and TF-IDF to extract 500+ key terms for Gboard prediction optimization.\n- Built a DNN-based classifier on Fashion-MNIST and review datasets; improved model efficiency.\n- Conducted authenticity tests on IMDB articles using WSDM protocol; achieved 80% precision."
+  },
+  {
+    "objectID": "Internships & Projects.html#internship-experience",
+    "href": "Internships & Projects.html#internship-experience",
+    "title": "Internships & Projects",
+    "section": "",
+    "text": "Aug 2023 – Sep 2023 | Nanjing, China\n- Produced user portraits based on trading behavior and socioeconomic traits of 100+ clients.\n- Developed an automated pre-selection tool to match clients with suitable financial products.\n- Created visualizations for investment portfolios and predicted margins to improve presentations.\n\n\n\n\nJun 2023 – Aug 2023\n- Applied Word2Vec and TF-IDF to extract 500+ key terms for Gboard prediction optimization.\n- Built a DNN-based classifier on Fashion-MNIST and review datasets; improved model efficiency.\n- Conducted authenticity tests on IMDB articles using WSDM protocol; achieved 80% precision."
+  },
+  {
+    "objectID": "Internships & Projects.html#academic-projects",
+    "href": "Internships & Projects.html#academic-projects",
+    "title": "Internships & Projects",
+    "section": "Academic Projects",
+    "text": "Academic Projects\n\nStudent Grade Analysis\nSTA 141A | UC Davis\n- Explored impact of factors like test prep and race on student grades via regression and visualization.\n- Found positive correlation with lunch/test prep and negative correlation with gender/race.\n\n\n\nHelicopter Flight Factors\nSTA 106 | UC Davis\n- Led research on performance of helicopter calls; applied data transformation and visualization.\n- Used R to identify peak shifts based on call frequency, normalized and cleaned datasets.\n\n\n\nCOVID-19 Analysis in Cameroon\nSTA 104 | UC Davis\n- Tested correlations between age, gender, and infection using boxplots and hypothesis testing.\n- Concluded no significant correlation with infection rates based on early 2020 data.\n\n\n\nTime Series Forecast of Ping An Bank\nSTA 137 | UC Davis\n- Analyzed monthly prices (2005–2021); decomposed series into trend, seasonality, and noise.\n- Validated forecast model using Box-Ljung and Portmanteau tests; predicted an upward trend.\n\n\n\nByssinosis Risk Modeling\nSTA 138 | UC Davis\n- Built logistic regression model using Employment Years, Smoking, Workspace, etc.\n- Found strong correlation between employment duration and disease prevalence.\n\n\n\nSpam Email Classification\nSTA 141B | UC Davis\n- Parsed 1000+ email headers and bodies to extract 20+ indicators (e.g., Re:, PGPSigned, recipients).\n- Visualized patterns with mosaic plots and scatterplots; summarized key spam indicators.\n\n\n\nHousing Price Comparison Near Schools\nSTA 141B | UC Davis\n- Scraped rental listings via Docker and R from Craigslist in Davis and Berkeley.\n- Verified geographical location as a significant factor using p-values and statistical tests.\n\n\n\nUX Optimization for Housing Rental Data\nSTA 141B | UC Davis\n- Designed an interactive HTML interface to display housing info and trend graphs.\n- Enabled users to explore location-based rental insights interactively.\n\n\n\nInfant Mortality vs. Population Growth\nECN140 | UC Davis\n- Analyzed U.S. health data (1960–2020) using STATA and ANOVA model fitness tests.\n- Found consistent decline in infant mortality and effectiveness of health policies.\n\n\n\nCalifornia Wine Industry Modeling\nAD715 | Boston University\n- Applied machine learning and statistical modeling on wine company datasets.\n- Built predictive models and conducted EDA with feature engineering to optimize accuracy.\n\n\n\nReal Estate Strategy for NYC Office Launch\nAD571 | Boston University\n- Forecasted sales in Upper East Side using time series analysis (8 quarters, 95% confidence).\n- Built Excel Solver model to determine staffing for NPV maximization.\n- Proposed strategy for office location, staffing plan, and future data collection."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can download my full CV here:\nClick to Download"
+  },
+  {
+    "objectID": "cv.html#download-my-full-cv",
+    "href": "cv.html#download-my-full-cv",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can download my full CV here:\nClick to Download"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nBoston University, M.S. in Applied Business Analytics (09/2024 – 05/2026 expected)\nKey Courses: R, Business Analytics, Operations, Financial Concepts, Decision-Making\nUniversity of California, Davis, B.S. in Statistics (09/2020 – 06/2024)\nKey Courses: Statistical Data Science, Game Theory, Nonparametrics, Regression, Time Series"
+  },
+  {
+    "objectID": "cv.html#internship-experience",
+    "href": "cv.html#internship-experience",
+    "title": "Curriculum Vitae",
+    "section": "Internship Experience",
+    "text": "Internship Experience\nMarketing Analyst Intern, Nanjing Securities (2023)\n- Developed automated product matching tools based on client profiles.\n- Visualized financial products and increased conversion rate by 5%.\nData Scientist Intern, Google (2023)\n- Built text classifiers using DNN, Word2Vec, TF-IDF.\n- Enhanced Gboard features and optimized prediction accuracy."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\nProgramming: Python, R, MATLAB, STATA, SQL\nTools: Tableau, Excel, Docker, Git, AWS\nLanguages: Mandarin (Native), English (Fluent)"
+  },
+  {
+    "objectID": "cv.html#contact-info",
+    "href": "cv.html#contact-info",
+    "title": "Curriculum Vitae",
+    "section": "Contact Info",
+    "text": "Contact Info\nBoston, MA\nghr2002@bu.edu\n001-530-760-9966"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always open to discussing data projects, business analytics, or research collaborations.\nFeel free to connect with me through the following methods:\n\n\n\nghr2002@bu.edu\n\n\n\n524 Cambridge Street, Boston, MA, United States\n\n\n\n001-530-760-9966"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always open to discussing data projects, business analytics, or research collaborations.\nFeel free to connect with me through the following methods:\n\n\n\nghr2002@bu.edu\n\n\n\n524 Cambridge Street, Boston, MA, United States\n\n\n\n001-530-760-9966"
+  }
+]
